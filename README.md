@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @FilipGembec-dev
 - 👀 I’m interested in FPGA development and adaptive computing.
-- 🌱 I’m currently learning to use Xilinx Vitis HLS
 - 📫 How to reach me - https://www.linkedin.com/in/filip-gembec-1a956a223/
